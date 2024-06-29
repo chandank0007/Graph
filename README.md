@@ -12,7 +12,6 @@
 
 Gee Vis is a graph visualization tool that receives user input in various commonly used graph and tree formats, and generates well-proportioned and visually intuitive layouts based on different graph layout algorithms. The UI is simple but flexible, providing basic validation on improper input syntax, as well as a handful of configuration options to aid in the user experience.
 
-[Video Demo](https://www.youtube.com/watch?v=v4YOC_g8ABA)
 
 ## :mag_right: Features
 
